@@ -1,5 +1,6 @@
 This README exists for the NSF_GameGrp repository. To have access to this public repository, please do the following:
 
 1. Create an account at github.com.
-2. Add the repository to your account (NSF_GameGrp).
-3. Install git to your system, if you have not already.
+2. Install and setup git using the instructions found here:
+http://help.github.com/mac-set-up-git/
+3. Add the repository to your account (NSF_GameGrp).
